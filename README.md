@@ -28,9 +28,9 @@ Following is the project's directory structure:
 WellPred/
 │
 ├── apps/
-│   ├── cerv_app.py           # Flask application for cervical cancer prediction
-│   ├── heart_app.py          # Flask application for heart disease prediction
-│   └── kidney_app.py         # Flask application for kidney disease prediction
+│   ├── cerv_app.py           
+│   ├── heart_app.py          
+│   └── kidney_app.py         
 │
 ├── codes/
 │   ├── Cervical_Cancer.ipynb # Jupyter Notebook for cervical cancer data analysis
