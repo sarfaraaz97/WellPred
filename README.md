@@ -72,7 +72,7 @@ WellPred/
 ### 1. Clone the Repository:
 
 ```bash
-  git clone https://github.com/sumanthgm-a4/WellPred.git
+  git clone https://github.com/sarfaraaz97/WellPred.git
   cd WellPred
 ```
 
@@ -89,7 +89,7 @@ WellPred/
 ### 1. Run the Application:
 - Start the Django app:
 ```bash
-  python main_app.py
+  python manage.py runserver
 ```
 - Access the application in your web browser at http://localhost:5000 .
 
